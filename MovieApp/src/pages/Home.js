@@ -41,7 +41,7 @@ const Home = () => {
       ) : (
         <div className="search-warning">
           <p>Search a movie!</p>
-          <p>i.e. Harry Potter</p>
+          <p>Search for your favourite movies</p>
         </div>
       )}
     </div>
